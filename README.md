@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a rel="me" href="https://hachyderm.io/@xians"></a>
+Mostly at <a href="https://twitter.com/jean_jcl">Twitter</a>, currently tooting on <a rel="me" href="https://hachyderm.io/@xians">Mastodon</a>
 <!--
 **jean-lourenco/jean-lourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
